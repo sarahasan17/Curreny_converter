@@ -1,0 +1,30 @@
+.converter{
+    display: flex;
+    width:200px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.rate{
+    height: 30px;
+    width:150px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 3px;
+    font:20px;
+    background-color: blanchedalmond;
+}
+body{
+    background-color: darkkhaki;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width:100%;
+}
+.main{
+    background-color: beige;
+    border: 2px solid black;
+    height:400px;
+    width:300px;
+    padding: 10px 10px 10px 10px;
+}
